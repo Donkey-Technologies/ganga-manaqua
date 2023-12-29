@@ -1,2 +1,3 @@
-aws/wifi_config.txt
-aws/aws_url.txt
+backend/wifi_config.txt
+backend/aws_url.txt
+frontend/ddb_table.txt
